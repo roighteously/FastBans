@@ -1,0 +1,3 @@
+banMessage: "&7&l------------------------\n&r&cBanned for: %reason%&r\n&7&l------------------------"
+tempBanMessage: "&7&l------------------------\n&r&cTemp banned for: %reason%&r\n&7&l------------------------"
+defaultBanReason: "Banned from the server"

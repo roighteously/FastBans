@@ -1,0 +1,2 @@
+banMessage: "<gray><b>------------------------\n<reset><red>Banned for: %reason%<reset>\n<gray><b>------------------------"
+defaultBanReason: "Banned from the server"
